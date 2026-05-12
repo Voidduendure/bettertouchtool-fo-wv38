@@ -1,4 +1,4 @@
-
+Get the ultimate BetterTouchTool for macOS addon with BetterTouchTool for macOS exclusive Addon - OCR-support and file-indexing. Featuring OCR-support and file-indexing, it's the
 
 
 
